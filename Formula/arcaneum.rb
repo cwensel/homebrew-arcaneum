@@ -7,8 +7,8 @@ class Arcaneum < Formula
 
   desc "CLI tools for semantic and full-text search with Qdrant and MeiliSearch"
   homepage "https://github.com/cwensel/arcaneum"
-  url "https://github.com/cwensel/arcaneum/releases/download/v0.2.0/arcaneum-0.2.0.tar.gz"
-  sha256 "c7a964405d559fd5c5a05af74ce5c14895ed72dc93fd588c9ba1e05f7ef7fa59"
+  url "https://github.com/cwensel/arcaneum/releases/download/v0.4.1/arcaneum-0.4.1.tar.gz"
+  sha256 "f2de6093837f3cbdc1076f3f7bfe58c979ab757bac2f0db80579df4a0131e058"
   license "MIT"
 
   depends_on "python@3.12"
